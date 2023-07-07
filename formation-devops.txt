@@ -1,0 +1,3 @@
+https://docs.google.com/presentation/d/1SDQXYEs4ybwFc4fewW-nFSyA-ri7L77j6FJ-6z09WRI/edit#slide=id.g25423eda88b_0_61
+
+je suis rendu à la slide 12 je dois supprimer le dossier demo.test.js et créer un fichier demo.test.js
