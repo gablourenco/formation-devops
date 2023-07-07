@@ -1,0 +1,23 @@
+{
+  "name": "formation-devops",
+  "version": "1.0.0",
+  "description": "\"# formation-devops\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gablourenco/formation-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gablourenco/formation-devops/issues"
+  },
+  "homepage": "https://github.com/gablourenco/formation-devops#readme",
+  "devDependencies": {
+    "should": "^13.2.3"
+  }
+}
